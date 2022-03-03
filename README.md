@@ -2,5 +2,5 @@
 repo for ADS-508 cloud computing class.
 
 <ol>
-  <li><b>Module 1:</b>Sagemaker</li>
+  <li><b>Module 1: </b>Sagemaker</li>
 </ol>
